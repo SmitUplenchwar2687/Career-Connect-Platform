@@ -45,6 +45,7 @@ Follow these instructions to set up the project locally:
    git clone https://github.com/your-username/Career-Connect-Platform.git
    cd Career-Connect-Platform
 2. Install dependencies:
+    ```bash
      npm install
 
 ### 📈 Future Enhancements
