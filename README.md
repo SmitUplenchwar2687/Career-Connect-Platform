@@ -54,8 +54,10 @@ Follow these instructions to set up the project locally:
 - Enable advanced analytics for job trends and user behavior.
 - Add notification and messaging systems.
 
-### 🤝 Contributions
-- Contributions are welcome! Feel free to fork the repository and submit a pull request for any features, bug fixes, or improvements.
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ### 📜 License
 - This project is licensed under the MIT License. See the LICENSE file for details.
